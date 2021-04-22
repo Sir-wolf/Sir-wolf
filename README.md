@@ -85,7 +85,6 @@
 
 ## Vibing to 🎧 :
   
-![](https://github.com/SP-XD/SP-XD/raw/main/images/linux.gif?raw=true)  
   
 
 <br/>  
