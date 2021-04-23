@@ -109,7 +109,8 @@
 ![](https://github.com/SP-XD/SP-XD/raw/main/images/dino.gif?raw=true)  
   
 
-![](https://github.com/SP-XD/SP-XD/raw/main/this_page_is.gif?raw=true)  
+
+<img src="https://github.com/SP-XD/SP-XD/raw/main/this_page_is.gif?raw=true" align="center" style="width: 20%" />
 
 <br />
 
