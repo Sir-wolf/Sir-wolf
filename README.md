@@ -2,7 +2,7 @@
 </div>  
   
 
-### <div align="center">I'm Sir-wolf, I like to write in Python Code🐍 and I'm exploring Cloud Tech ☁️ & Ethical Hacking 👨‍💻 ,working remotely since 2019 🚀
+### <div align="center">I'm Sir-wolf, I like to write in Python Code🐍 and I'm exploring Cloud Tech ☁️ & Ethical Hacking 👨‍💻,working remotely since 2019 🚀
 
 
 </div>  
